@@ -2,7 +2,7 @@
 
 ### String Processing
 For string processing before counting words,
-1. replaced ['s] with whitespaces
+1. replaced ['s] with whitespaces.
 2. replaced all punctuations with whitespaces.<br>
 
 E.g. "<b>what's your name?</b>" will become ["what", "your", "name"].
